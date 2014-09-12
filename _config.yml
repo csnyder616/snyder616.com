@@ -1,8 +1,7 @@
 # Site settings
 title: Snyder616
 email: chris@snyder616.com
-description: > # this means to ignore newlines until "baseurl:"
-  Homepage for Chris Snyder in Grand Rapids, Michigan, USA.
+description: Homepage for Chris Snyder in Grand Rapids, Michigan, USA.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.snyder616.com" # the base hostname & protocol for your site
 twitter_username: organsnyder
