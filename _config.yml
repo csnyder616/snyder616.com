@@ -9,3 +9,4 @@ github_username:  organsnyder
 
 # Build settings
 markdown: kramdown
+exclude: [vendor]
