@@ -1,7 +1,7 @@
 # Site settings
-title: Snyder616
+title: Chris Snyder 
 email: chris@snyder616.com
-description: Homepage for Chris Snyder in Grand Rapids, Michigan, USA.
+description: Chris Snyder; Grand Rapids, Michigan, USA.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.snyder616.com" # the base hostname & protocol for your site
 twitter_username: organsnyder
