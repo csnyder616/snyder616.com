@@ -7,6 +7,8 @@ url: "http://www.snyder616.com" # the base hostname & protocol for your site
 twitter_username: organsnyder
 github_username:  organsnyder
 
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 exclude: [vendor]
