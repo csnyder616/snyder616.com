@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have an amazing wife and two sons.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am the Web Developer for [BioLogos](http://www.biologos.org).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am the Interim Organist for [Hope Church](http://www.embracehopegr.org) in Grand Rapids.
+
+I sing tenor in [The Choral Scholars](http://www.thechoralscholars.com), a group that feels like a second family.
+
+I live in the [Garfield Park](http://www.gpnagr.org) neighborhood.
+
+I operate [WavyGlass.org](http://www.wavyglass.org), a forum for old house enthusiests.
