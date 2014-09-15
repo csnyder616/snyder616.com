@@ -140,6 +140,15 @@ $head-foreground: #e3e3e3;
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+.footer-badges {
+    text-align: center;
+    .badge {
+	    max-width: 150px;
+	    max-height: 50px;
+	    width: auto;
+	    height: auto;
+    }
+}
 @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
