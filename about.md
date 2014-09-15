@@ -14,4 +14,4 @@ I sing tenor in [The Choral Scholars](http://www.thechoralscholars.com), a group
 
 I live in the [Garfield Park](http://www.gpnagr.org) neighborhood.
 
-I operate [WavyGlass.org](http://www.wavyglass.org), a forum for old house enthusiests.
+I operate [WavyGlass.org](http://www.wavyglass.org), a forum for old house enthusiasts.
