@@ -8,7 +8,7 @@ permalink: /about/
 
 I have an amazing wife, two sons, and another baby on the way.
 
-I am the Web Developer for [BioLogos](http://www.biologos.org).
+I am a Developer for [Lanio](http://lan.io).
 
 I am the Organist for [Hope Church](http://www.embracehopegr.org) in Grand Rapids.
 
