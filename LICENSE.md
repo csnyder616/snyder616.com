@@ -1,4 +1,4 @@
-Copyright 2014 Chris Snyder
+Copyright 2017 Chris Snyder
 
 The content on this site is licensed under the Creative Commons [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
 

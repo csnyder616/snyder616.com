@@ -4,16 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<div class="sidebar">{% include goodreads.html %}</div>
+I live in the Garfield Park neighborhood in Grand Rapids, Michigan, with my wife and four kids.
 
-I have an amazing wife, two sons, and another baby on the way.
+I develop enterprise APIs for [Spectrum Health](http://www.spectrumhealth.org), a regional integrated healthcare system with over 25,000 employees.
 
-I am a Developer for [Lanio](http://lan.io).
-
-I am the Organist for [Hope Church](http://www.embracehopegr.org) in Grand Rapids.
+I occasionally play organ and piano at my church, [Neland Ave CRC](http://www.neland.org).
 
 I sing tenor in [The Choral Scholars](http://www.thechoralscholars.com), a group that feels like a second family.
-
-I live in the [Garfield Park](http://www.gpnagr.org) neighborhood.
-
-I operate [WavyGlass.org](http://www.wavyglass.org), a forum for old house enthusiasts.
